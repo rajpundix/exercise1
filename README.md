@@ -20,8 +20,6 @@ To modify the configuration of infura project id, please navigate to truffle-con
 and replace the key at the end of url
 https://rinkeby.infura.io/v3/7596fc2db67e49f2b7c3c70bd6f06dd2
 
-Configuration related to initial supply, tokenname can be found at config folder
-
 ## Post deployment steps
 https://ropsten.etherscan.io/address/0x974793572DD2a4a47A258eab66FB1893d0e519Dc
 
